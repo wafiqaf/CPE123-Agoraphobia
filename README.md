@@ -13,7 +13,6 @@ Can be viewed live here: https://users.csc.calpoly.edu/~eberbern/FinalProject.ht
 ## Project Instructions from Professor
 Your final project for CPE 123 is a team project (group sizes 3-5).  In general, your final project should be an interactive sketch, game, or animated short.  This project is intended to be the culmination of your work this quarter, so please be creative, expressive and include all the relevant technologies we have learned. 
 
-**Project and Demo**
 As with all grading this quarter 75% of your grade will be for technical complexity and 25% will be for artistic aesthetic qualities in the story/interactive program.
 
 **Required Technologies**
